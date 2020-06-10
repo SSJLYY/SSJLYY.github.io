@@ -3,11 +3,11 @@
   <title>Shaun&#39;s Blog</title>
   
   
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://ssjlyy.gitee.io/bolg/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2020-06-09T08:25:20.385Z</updated>
-  <id>https://ssjlyy.gitee.io/bolg/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Shaun Sheng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>demo</title>
-    <link href="https://ssjlyy.gitee.io/bolg/2020/06/09/demo/"/>
-    <id>https://ssjlyy.gitee.io/bolg/2020/06/09/demo/</id>
+    <link href="http://yoursite.com/2020/06/09/demo/"/>
+    <id>http://yoursite.com/2020/06/09/demo/</id>
     <published>2020-06-09T08:22:14.898Z</published>
     <updated>2020-06-09T08:25:20.385Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://ssjlyy.gitee.io/bolg/2020/06/09/hello-world/"/>
-    <id>https://ssjlyy.gitee.io/bolg/2020/06/09/hello-world/</id>
+    <link href="http://yoursite.com/2020/06/09/hello-world/"/>
+    <id>http://yoursite.com/2020/06/09/hello-world/</id>
     <published>2020-06-09T08:02:10.464Z</published>
     <updated>2020-06-09T08:02:10.464Z</updated>
     
