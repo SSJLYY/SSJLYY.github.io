@@ -1,2 +1,0 @@
-acerchem/acerchemstorefront/web/src/com/acerchem/storefront/controllers/pages/checkout/steps/DeliveryMethodCheckoutStepController.java
-acerchem/acerchemstorefront/web/src/com/acerchem/storefront/controllers/pages/checkout/steps/DeliveryAddressCheckoutStepController.java
